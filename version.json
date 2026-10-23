@@ -1,0 +1,17 @@
+{
+    "sha256":  "eab4ab83c0abb4ad25f94c73ed146f3290e2999e402669319d636bc6f96ee303",
+    "version":  "3.7.1",
+    "minVersion":  "2.1.0",
+    "downloadUrl":  "https://github.com/WANGSHIHENG-sudo/fps-toolbox-dist/releases/download/v3.7.1/FPS-Toolbox-v3.7.1.zip",
+    "whatsNew":  "v3.7.1 修复无畏契约画质应用失败: 现仅写已验证键(垂直同步/帧率上限), 画质档给游戏内清单, 不再误报失败",
+    "date":  "2026-10-22",
+    "notes":  [
+                  "无畏契约画质adapter实机证伪修正: sg.*键实机不落盘(Riot自有图形系统+账号漫游)",
+                  "降级为仅直改垂直同步/帧率上限+游戏内清单",
+                  "遵循未验证键不直改红线",
+                  "引擎新增部分生效语义(Missing键不误判失败",
+                  "Web返回partial明细)",
+                  "防回归红线用例2项",
+                  "测试基线204项"
+              ]
+}
