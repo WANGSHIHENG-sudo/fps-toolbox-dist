@@ -13,5 +13,8 @@
                   "Web返回partial明细)",
                   "防回归红线用例2项",
                   "测试基线204项"
-              ]
+              ],
+    "mirrors":  [
+                    "https://gh-proxy.com/https://github.com/WANGSHIHENG-sudo/fps-toolbox-dist/releases/download/v3.7.1/FPS-Toolbox-v3.7.1.zip"
+                ]
 }
