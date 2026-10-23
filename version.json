@@ -1,20 +1,20 @@
 {
-    "sha256":  "eab4ab83c0abb4ad25f94c73ed146f3290e2999e402669319d636bc6f96ee303",
-    "version":  "3.7.1",
+    "sha256":  "2ce4e3fd20f5855c52092c7d3a0eeeddb8a2d5faaf2541242452f56a8147b4a6",
+    "version":  "3.8.0",
     "minVersion":  "2.1.0",
-    "downloadUrl":  "https://github.com/WANGSHIHENG-sudo/fps-toolbox-dist/releases/download/v3.7.1/FPS-Toolbox-v3.7.1.zip",
-    "whatsNew":  "v3.7.1 修复无畏契约画质应用失败: 现仅写已验证键(垂直同步/帧率上限), 画质档给游戏内清单, 不再误报失败",
-    "date":  "2026-10-22",
+    "downloadUrl":  "https://github.com/WANGSHIHENG-sudo/fps-toolbox-dist/releases/download/v3.8.0/FPS-Toolbox-v3.8.0.zip",
+    "whatsNew":  "v3.8 灵敏度测试升级: 游戏级准星+急停分析+平滑跟踪; 测完直接告诉你游戏内改到多少",
+    "date":  "2026-10-23",
     "notes":  [
-                  "无畏契约画质adapter实机证伪修正: sg.*键实机不落盘(Riot自有图形系统+账号漫游)",
-                  "降级为仅直改垂直同步/帧率上限+游戏内清单",
-                  "遵循未验证键不直改红线",
-                  "引擎新增部分生效语义(Missing键不误判失败",
-                  "Web返回partial明细)",
-                  "防回归红线用例2项",
-                  "测试基线204项"
+                  "点靶测试对标业界升级: 自定义准星(隐藏系统光标+荧光十字)",
+                  "急停成功率指标(命中且末段速度\u003c0.3px/ms)",
+                  "李萨如平滑轨迹跟踪(替代随机反弹)",
+                  "具体调整量建议(过冲x1.15/欠冲x0.87/反应慢x1.08",
+                  "API直出各游戏精确新值)",
+                  "问卷结果滑杆微调实时换算",
+                  "测试基线213项"
               ],
     "mirrors":  [
-                    "https://gh-proxy.com/https://github.com/WANGSHIHENG-sudo/fps-toolbox-dist/releases/download/v3.7.1/FPS-Toolbox-v3.7.1.zip"
+                    "https://gh-proxy.com/https://github.com/WANGSHIHENG-sudo/fps-toolbox-dist/releases/download/v3.8.0/FPS-Toolbox-v3.8.0.zip"
                 ]
 }
